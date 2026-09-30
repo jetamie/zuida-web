@@ -48,7 +48,8 @@ zuida/
 将项目目录放到本地任意位置，例如：
 
 ```
-c:\Users\tangzhiqin\Desktop\zuida
+git clone https://github.com/jetamie/zuida-web.git
+cd zuida-web
 ```
 
 ### 2. 启动服务
